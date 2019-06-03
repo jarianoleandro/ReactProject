@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "idade": 20,
+      "name": "Leandro",
+      "email": "jariano.oliveira@compasso.com.br",
+      "id": 4,
+      "tipo": "user"
+    },
+    {
+      "idade": 21,
+      "name": "Juan Martínez",
+      "email": "juan@gmail.com",
+      "id": 5,
+      "tipo": "user"
+    },
+    {
+      "idade": 23,
+      "name": "oloquinhoMeu",
+      "email": "oloquinhomeu@gmail.com",
+      "id": 6,
+      "tipo": "user"
+    },
+    {
+      "name": "Leandro Antunes O.",
+      "email": "jariano.oliveira0@compasso.com.br",
+      "idade": "25",
+      "id": 7,
+      "tipo": "user"
+    }
+  ],
+  "movie": [
+    {
+      "id": 2,
+      "name": "Furia de Deuses I",
+      "director": "Emerson Nandes",
+      "classIndication": "14"
+    },
+    {
+      "id": 3,
+      "name": "Furia de Deuses II",
+      "director": "Emerson Nandes",
+      "classIndication": 16
+    },
+    {
+      "id": 4,
+      "name": "Furia de Deuses III",
+      "director": "Emerson Nandes",
+      "classIndication": 16
+    },
+    {
+      "name": "Deuses em Furia",
+      "director": "Emerson Nandes Filho",
+      "classIndication": "18",
+      "id": 5
+    }
+  ]
+}
